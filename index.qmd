@@ -8,21 +8,16 @@ title: "Tratamiento T1"
 format: html
 ---
 
-# Tratamiento T1
+# Tratamiento T1 (LAT)
 
-## Información General
+## Producto aplicado
+AGRO PHYTO-ENERPOWER (Bioestimulador activado) + AGRONATURAL
 
-- Producto: Agro Phyto-Enerpower + Agronatural
-- Concentración: 1 %
-- Dosis: 4.0 L/ha
+## Concentración
+1.0 %
 
-## Diseño Experimental
+## Dosis
+4 L/ha
 
-- Diseño: DBCA
-- Repeticiones: 4
-- Unidades experimentales: 24
-- Parcela: 1.20 m × 1.20 m
-- Área: 1.44 m²
-- Distanciamiento: 0.30 m × 0.30 m
-- Plantas por parcela: 16
-- Plantas útiles: 4
+## Sustento técnico
+Comparativo orgánico ajustado a volumen realista, equivalente a 4 L/ha.
