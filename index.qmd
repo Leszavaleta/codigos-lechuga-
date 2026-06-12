@@ -3,12 +3,8 @@ title: "Lechuga"
 author: "Jhener Visalot"
 format: html
 ---
----
-title: "Tratamiento T1"
-format: html
----
 
-# Tratamiento T1 (LAT)
+# Tratamiento T2 (LACO)
 
 ## Producto aplicado
 AGRO PHYTO-ENERPOWER (Bioestimulador activado) + AGRONATURAL
@@ -20,4 +16,5 @@ AGRO PHYTO-ENERPOWER (Bioestimulador activado) + AGRONATURAL
 4 L/ha
 
 ## Sustento técnico
-Comparativo orgánico ajustado a volumen realista, equivalente a 4 L/ha.
+"Comparativo orgánico ajustado a volumen realista, equivalente a 4 L/ha"
+

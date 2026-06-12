@@ -1,0 +1,27 @@
+---
+title: "lechuga"
+author: "Visalot"
+format: html
+---
+---
+title: "Tratamiento T2"
+format: html
+---
+
+# Tratamiento T2
+
+## Producto aplicado
+
+Ácido piroleñoso
+
+## Concentración
+
+0.10 %
+
+## Dosis equivalente
+
+0.4 L/ha
+
+## Sustento técnico
+
+Dosis exploratoria inferior al rango reportado por Ofoe et al. (2024) y Fedeli et al. (2022).
